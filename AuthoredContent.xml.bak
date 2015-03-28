@@ -15,9 +15,9 @@
 	</TitleMenu>
 <!-- PAL_放射光宽屏菜单 -->
 	<DisplayItem id='9' type='menu'>
-	<Media type='image' src='https://github.com/aisino908311595/aisinovideoflv/raw/master/_PGC_Ppgc_1.jpg' loops='infinite'/>
-	<ButtonList default='1' down='https://github.com/aisino908311595/aisinovideoflv/raw/master/_PGC_Ppgc Ba_1.png' 
-	over='https://github.com/aisino908311595/aisinovideoflv/raw/master/_PGC_Ppgc Bs_1.png'>
+	<Media type='image' src='https://github.com/908311595/aisinovideoflv/raw/master/_PGC_Ppgc_1.jpg' loops='infinite'/>
+	<ButtonList default='1' down='https://github.com/908311595/aisinovideoflv/raw/master/_PGC_Ppgc Ba_1.png' 
+	over='https://github.com/908311595/aisinovideoflv/raw/master/_PGC_Ppgc Bs_1.png'>
 		<Button index='1'>
 			<Bounds top='236' left='165' width='349' height='48'/>
 			<Action type='DisplayItem' target='2' mediaIndex='1'/>
@@ -51,49 +51,49 @@
 <!-- 0.开场 -->
 	<DisplayItem id='1' type='title'>
 <!-- 章节 1 -->
-		<Media src='https://github.com/aisino908311595/aisinovideoflv/raw/master/_PGC_Qpgc_entryPoint_Sbp_1.flv' type='video' startTime='0' duration='118.318'/>
+		<Media src='https://github.com/908311595/aisinovideoflv/raw/master/_PGC_Qpgc_entryPoint_Sbp_1.flv' type='video' startTime='0' duration='118.318'/>
 		<Action type='DisplayItem' target='9'/>
 	</DisplayItem>
 <!-- 1.开票准备 -->
 	<DisplayItem id='2' type='title'>
 <!-- 章节 1 -->
-		<Media src='https://github.com/aisino908311595/aisinovideoflv/raw/master/_PGC_Rpgc_entryPoint_Tbp_1.flv' type='video' startTime='0' duration='116.716'/>
+		<Media src='https://github.com/908311595/aisinovideoflv/raw/master/_PGC_Rpgc_entryPoint_Tbp_1.flv' type='video' startTime='0' duration='116.716'/>
 		<Action type='DisplayItem' target='9'/>
 	</DisplayItem>
 <!-- 2.安装启动 -->
 	<DisplayItem id='3' type='title'>
 <!-- 章节 1 -->
-		<Media src='https://github.com/aisino908311595/aisinovideoflv/raw/master/_PGC_Spgc_entryPoint_Ubp_1.flv' type='video' startTime='0' duration='128.077'/>
+		<Media src='https://github.com/908311595/aisinovideoflv/raw/master/_PGC_Spgc_entryPoint_Ubp_1.flv' type='video' startTime='0' duration='128.077'/>
 		<Action type='DisplayItem' target='9'/>
 	</DisplayItem>
 <!-- 3.系统设置 -->
 	<DisplayItem id='4' type='title'>
 <!-- 章节 1 -->
-		<Media src='https://github.com/aisino908311595/aisinovideoflv/raw/master/_PGC_Tpgc_entryPoint_Vbp_1.flv' type='video' startTime='0' duration='203.603'/>
+		<Media src='https://github.com/908311595/aisinovideoflv/raw/master/_PGC_Tpgc_entryPoint_Vbp_1.flv' type='video' startTime='0' duration='203.603'/>
 		<Action type='DisplayItem' target='9'/>
 	</DisplayItem>
 <!-- 4.发票读入 -->
 	<DisplayItem id='5' type='title'>
 <!-- 章节 1 -->
-		<Media src='https://github.com/aisino908311595/aisinovideoflv/raw/master/_PGC_Upgc_entryPoint_Wbp_1.flv' type='video' startTime='0' duration='77.927'/>
+		<Media src='https://github.com/908311595/aisinovideoflv/raw/master/_PGC_Upgc_entryPoint_Wbp_1.flv' type='video' startTime='0' duration='77.927'/>
 		<Action type='DisplayItem' target='9'/>
 	</DisplayItem>
 <!-- 5.发票填开 -->
 	<DisplayItem id='6' type='title'>
 <!-- 章节 1 -->
-		<Media src='https://github.com/aisino908311595/aisinovideoflv/raw/master/_PGC_Vpgc_entryPoint_Xbp_1.flv' type='video' startTime='0' duration='312.445'/>
+		<Media src='https://github.com/908311595/aisinovideoflv/raw/master/_PGC_Vpgc_entryPoint_Xbp_1.flv' type='video' startTime='0' duration='312.445'/>
 		<Action type='DisplayItem' target='9'/>
 	</DisplayItem>
 <!-- 6.报税处理 -->
 	<DisplayItem id='7' type='title'>
 <!-- 章节 1 -->
-		<Media src='https://github.com/aisino908311595/aisinovideoflv/raw/master/_PGC_Wpgc_entryPoint_Ybp_1.flv' type='video' startTime='0' duration='108.074'/>
+		<Media src='https://github.com/908311595/aisinovideoflv/raw/master/_PGC_Wpgc_entryPoint_Ybp_1.flv' type='video' startTime='0' duration='108.074'/>
 		<Action type='DisplayItem' target='9'/>
 	</DisplayItem>
 <!-- 7.发票打印 -->
 	<DisplayItem id='8' type='title'>
 <!-- 章节 1 -->
-		<Media src='https://github.com/aisino908311595/aisinovideoflv/raw/master/_PGC_Xpgc_entryPoint_Zbp_1.flv' type='video' startTime='0' duration='152.235'/>
+		<Media src='https://github.com/908311595/aisinovideoflv/raw/master/_PGC_Xpgc_entryPoint_Zbp_1.flv' type='video' startTime='0' duration='152.235'/>
 		<Action type='DisplayItem' target='9'/>
 	</DisplayItem>
 </AuthoredContent>
